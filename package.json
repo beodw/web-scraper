@@ -1,0 +1,17 @@
+{
+  "name": "linkedin-crawler",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/index.js",
+    "test": "test"
+  },
+  "author": "beodw",
+  "license": "MIT",
+  "dependencies": {
+    "pupeteer": "^0.0.1",
+    "puppeteer": "^19.2.0"
+  }
+}
